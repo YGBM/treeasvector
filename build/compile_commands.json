@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/burtedward/Downloads/test/demo07c/build",
+  "command": "/usr/bin/clang++     -stdlib=libc++ -std=c++11 -fPIC -w -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++14 -o CMakeFiles/demo07c.dir/main.cpp.o -c /Users/burtedward/Downloads/test/demo07c/main.cpp",
+  "file": "/Users/burtedward/Downloads/test/demo07c/main.cpp"
+}
+]
